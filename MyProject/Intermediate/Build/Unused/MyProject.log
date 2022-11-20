@@ -1,0 +1,9 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\KID\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\KID\Projects\Unreal\Unreal_Tutorial_CPlusPlus_20221118).
+  Invalidating makefile for MyProjectEditor (working set of source files changed)
+  Parsing headers for MyProjectEditor
+    Running UnrealHeaderTool "C:\KID\Projects\Unreal\Unreal_Tutorial_CPlusPlus_20221118\MyProject\MyProject.uproject" "C:\KID\Projects\Unreal\Unreal_Tutorial_CPlusPlus_20221118\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\KID\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for MyProjectEditor in 2.8309915 seconds
+UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: ""C:\Program Files\Epic Games\UE_5.0\Engine\Build\BatchFiles\Build.bat" MyProjectEditor Win64 Development -Project="C:\KID\Projects\Unreal\Unreal_Tutorial_CPlusPlus_20221118\MyProject\MyProject.uproject" -WaitMutex -FromMsBuild" 命令以返回碼 6 結束。

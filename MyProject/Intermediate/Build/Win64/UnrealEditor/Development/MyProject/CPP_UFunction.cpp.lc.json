@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\kid\\projects\\unreal\\unreal_tutorial_cplusplus_20221118\\myproject\\source\\myproject\\private\\cpp_ufunction.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kid\\projects\\unreal\\unreal_tutorial_cplusplus_20221118\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kid\\projects\\unreal\\unreal_tutorial_cplusplus_20221118\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\kid\\projects\\unreal\\unreal_tutorial_cplusplus_20221118\\myproject\\source\\myproject\\public\\cpp_ufunction.h",
+            "c:\\kid\\projects\\unreal\\unreal_tutorial_cplusplus_20221118\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\cpp_ufunction.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
